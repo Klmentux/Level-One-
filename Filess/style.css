@@ -1,0 +1,58 @@
+.fb{
+background-color:blue;}
+
+.fbt{
+background-color:blue;
+border: 1px solid black;
+}
+
+.tb{
+background-color:red;}
+
+.tbt{
+background-color:red;
+border: 1px solid black;
+}
+
+.bb{
+background-color:yellow;}
+
+.bbt{
+background-color:yellow;
+border: 1px solid black;
+padding: 50;}
+
+.cb{
+background-color:green;}
+
+.cbt{
+background-color:green;
+border: 1px solid black;}
+
+.cc{
+
+     background-color: rgb(225, 183, 220);
+}
+
+.brb{
+     border: 2px solid rgb(245, 239, 239);
+     background-color: blanchedalmond;
+     
+}
+
+.brt{
+     border: 1px solid black;
+}
+
+.bodyy{
+background-color: rgb(55, 42, 42);
+color: white;}
+.button{
+     background-color: green;
+     color: white;
+     padding: 5px;
+     border-radius: 8px;
+     border: none;
+     cursor: pointer;
+     border: 3px solid rgb(179, 226, 22);
+}
